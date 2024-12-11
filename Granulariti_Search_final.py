@@ -1,49 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[6]:
 
 
 import streamlit as st
@@ -63,14 +21,6 @@ from getpass import getpass
 
 os.environ["SERPER_API_KEY"] = "SerperAPIKey"
 
-
-# In[ ]:
-
-
-
-
-
-# In[8]:
 
 
 # Sidebar for OpenAI API Key input
